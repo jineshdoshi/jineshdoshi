@@ -1,4 +1,4 @@
-👋 Hi, I’m **Jinesh Doshi**, Founding Engineer @ [GIANT Protocol](https://giantprotocol.org) | Ex-Lead @ Salesforce
+👋 Hi, I’m **Jinesh Doshi**, Founding Engineer @ [GIANT Protocol](https://giantprotocol.org) | Ex-Lead @ [Salesforce](https://salesforce.com)
 
 - 🧑‍💻  A polyglot developer (Java, Golang, Python, NodeJS) with 8+ years of professional software development. 
 - 🔭  I’m currently working on decentralizing connectivity/bandwidth contracts. 
