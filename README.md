@@ -1,6 +1,6 @@
-👋 Hi, I’m **Jinesh Doshi**, Founding Engineer @ [GIANT Protocol](https://giantprotocol.org) | Ex-Lead @ [Salesforce](https://salesforce.com)
+👋 Hi, I’m **Jinesh Doshi**, Sr. SE @ [Magic Eden](https://magiceden.io) | Founding Engineer @ [GIANT Protocol](https://giantprotocol.org) | Ex-Lead @ [Salesforce](https://salesforce.com)
 
-- 🧑‍💻  A polyglot developer (Java, Golang, Python, NodeJS) with 8+ years of professional software development. 
+- 🧑‍💻  A polyglot developer (Typescript, Python, Java, Golang, Rust(beginner)) with 9+ years of professional software development. 
 - 🔭  I’m currently working on decentralizing connectivity/bandwidth contracts. 
   - You can buy, sell, trade connectivity contracts globally in 200+ countries in the [GIANT App](https://giant.app.link/jineshdoshi-github-readme)
 - 🤩  I get excited about containerization, devOps and automation tools that boost my productivity.
