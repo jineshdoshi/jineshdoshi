@@ -1,10 +1,13 @@
-👋 Hi, I’m **Jinesh Doshi**, Sr. SE @ [Magic Eden](https://magiceden.io) | Ex-Founding Engineer @ [GIANT Protocol](https://giantprotocol.org) | Ex-Lead @ [Salesforce](https://salesforce.com)
+👋 Hi, I’m **Jinesh Doshi**, SE @ [Tresle AI](https://tresle.ai) | Ex-Sr. SE @ [Magic Eden](https://magiceden.io) | Ex-Founding Engineer @ [GIANT Protocol](https://giantprotocol.org) | Ex-Lead @ [Salesforce](https://salesforce.com)
 
-- 🧑‍💻  A polyglot developer (Typescript, Python, Java, Golang, Rust(beginner)) with 9+ years of professional software development. 
-- 🔭  I’m currently working on decentralizing connectivity/bandwidth contracts. 
+- 🧑‍💻  A polyglot developer (Rust, Python, Typescript, Java, Golang) with **10 years** of professional software development. 
+- 🤖 At Tresle AI, building Enterprise ChatGPT using Rust and Agentic Platform using Python.
+  - Enterprise Tresle ChatGPT platform is deployed on-Prem/customer's AWS cloud account for our Enterprise customers.
+  - Agentic Platform is built using [Strands SDK](https://strandsagents.com) + [AWS Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore).
+- 🔭  At GIANT Protocol, I’ve designed and built a custom blockchain using substrate for decentralizing connectivity/bandwidth contracts for Telecom providers.
   - You can buy, sell, trade connectivity contracts globally in 200+ countries in the [GIANT App](https://giant.app.link/jineshdoshi-github-readme)
 - 🤩  I get excited about containerization, devOps and automation tools that boost my productivity.
-  - Some of my favorite tools and softwares are Docker, Kubernetes, Github-actions, Jenkins, Terraform, Terragrunt, etc.
+  - Some of my favorite tools and softwares are ZSH, Postman, Docker, Kubernetes, Github-actions, Jenkins, Terraform, Terragrunt, etc.
 - 🌱  I’m currently learning Rust and ReactJs.
 - 🫶  Most of my projects are behind private repos but I contribute to OSS whenever I can. Check it out [here](https://github.com/jineshdoshi?tab=repositories&q=&type=public&language=&sort=stargazers)
 - 📜 Own a Patent: [System and method for distributing mobile data](https://patents.google.com/patent/US10038610B2/en?inventor=Jinesh+Doshi)
