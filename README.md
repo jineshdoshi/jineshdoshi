@@ -1,4 +1,4 @@
-👋 Hi, I’m **Jinesh Doshi**, SE @ [Tresle AI](https://tresle.ai) | Ex-Sr. SE @ [Magic Eden](https://magiceden.io) | Ex-Founding Engineer @ [GIANT Protocol](https://giantprotocol.org) | Ex-Lead @ [Salesforce](https://salesforce.com)
+👋 Hi, I’m **Jinesh Doshi**, SE @ [Tresle AI](https://tresle.ai) | Ex- {Senior SWE @ [Magic Eden](https://magiceden.io) | Founding Engineer @ [GIANT Protocol](https://giantprotocol.org) | Lead SWE @ [Salesforce]}(https://salesforce.com)
 
 - 🧑‍💻  A polyglot developer (Rust, Python, Typescript, Java, Golang) with **10 years** of professional software development. 
 - 🤖 At Tresle AI, building Enterprise ChatGPT using Rust and Agentic Platform using Python.
